@@ -10,7 +10,7 @@ The system is designed to provide both visual and email notifications when an ob
 + Blue LED blinks when an obstacle is detected
 + Sends an email notification when an obstacle is detected
 
-##Hardware Components
+## Hardware Components
 + HC-SR04 ultrasonic sensor
 + Red LED
 + Blue LED
