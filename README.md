@@ -1,4 +1,6 @@
 # instrusiondetection
+Author: Rahul Gupta
+Date: 14-06-2023
 ## Description
 This project features an intrusion detection system implemented with an arduino mini. It will notify you if an obstacle was found.
 This project is an intrusion detection system that utilizes the HC-SR04 ultrasonic sensor to monitor for obstacles in a designated area. 
@@ -18,3 +20,9 @@ The system is designed to provide both visual and email notifications when an ob
 + Breadboard
 + Jumper wires
 + Microcontroller (e.g., Arduino mini (in my case), ESP8266, or Raspberry Pi)
+ 
+ ## Libraries
+ + HCSR04
+ + WiFiNINA
+ + EMailSender
+ + string
